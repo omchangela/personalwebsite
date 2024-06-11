@@ -1,0 +1,18 @@
+export const siteMetadata = {
+  title: "Om Changela portfolio",
+  author: "Om Changela",
+  headerTitle: "Om Changela",
+  description: "Fullstack developer",
+  language: "en-us",
+  theme: "light",
+  siteName: "amitchauhan.me",
+  siteLogo: "/favicon.ico",
+  image: "/static/homepage.png",
+  twitterImage: "/static/homepage.png",
+  socialBanner: "/static/homepage.png",
+  email: "changelaom@gmail.com",
+  github: "https://github.com/omchangela",
+  twitter: "https://x.com/changela_o78191",
+  linkedin: "https://www.linkedin.com/in/om-changela1545",
+  locale: "en-US",
+};
